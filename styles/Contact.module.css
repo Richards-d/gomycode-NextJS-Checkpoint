@@ -1,0 +1,33 @@
+.Form input{
+    background-color: #1f2235;
+    color: white;
+    width: 537px;
+    padding: 20px;
+    font-size: 18px;
+    margin-right: 20px;
+    border-radius: 6px;
+    border: none;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.Form textarea{
+    background-color: #1f2235;
+    color: white;
+    padding: 20px;
+    font-size: 18px;
+    border-radius: 6px;
+    border: none;
+    margin-bottom: 20px;
+    width: 1132px;
+}
+
+.Form button{
+    background-color: #FF4A57;
+    color: white;
+    text-align: center;
+    padding: 13px 40px;
+    font-size: 15px;
+    border: 2px solid #FF4A57;
+    border-radius: 50px;
+}

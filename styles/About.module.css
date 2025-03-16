@@ -1,0 +1,15 @@
+.aboutInfo{
+    display: flex;
+    margin-top: 40px;
+    line-height: 0.1;
+    padding: 50px;
+}
+
+.info1{
+    padding-right: 150px;
+}
+
+.info1 h6, .info2 h6{
+    color: #FF4A57;
+    font-size: 16px;
+}
